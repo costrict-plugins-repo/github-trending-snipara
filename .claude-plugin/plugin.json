@@ -1,0 +1,25 @@
+{
+  "name": "snipara",
+  "description": "Context optimization + safe code execution - Query docs (90% token reduction), orchestrate multi-round exploration, and execute code with Docker isolation using RLM Runtime",
+  "version": "1.1.0",
+  "author": {
+    "name": "Snipara Team",
+    "url": "https://snipara.com"
+  },
+  "homepage": "https://github.com/Snipara/snipara-claude",
+  "repository": "https://github.com/Snipara/snipara-claude",
+  "license": "MIT",
+  "keywords": [
+    "documentation",
+    "context",
+    "mcp",
+    "rag",
+    "optimization",
+    "orchestration",
+    "repl",
+    "rlm",
+    "code-execution",
+    "docker",
+    "runtime"
+  ]
+}

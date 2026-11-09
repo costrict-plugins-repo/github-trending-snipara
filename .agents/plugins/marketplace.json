@@ -1,0 +1,21 @@
+{
+  "name": "snipara",
+  "interface": {
+    "displayName": "Snipara"
+  },
+  "plugins": [
+    {
+      "name": "snipara",
+      "source": {
+        "source": "local",
+        "path": "./plugins/snipara"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity",
+      "version": "2.3.0-profile.a7e95dd39c42"
+    }
+  ]
+}
